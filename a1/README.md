@@ -21,12 +21,23 @@ modeler/designer to collect the following employee data for tax purposes: job de
 employment, benefits, number of dependents and their relationships, DOB of both the employee and any
 respective dependents. In addition, employees’ histories must be tracked. Also, include the following
 business rules:
-> * Test
-> * test
->
->
->
->
+> * Each employee may have one or more dependents.
+> * Each employee has only one job.
+> * Each job can be held by many employees.
+> * Many employees may receive many benefits.
+> * Many benefits may be selected by many employees (though, while they may not select any benefits—
+any dependents of employees may be on an employee’s plan).
+> In addition:
+> * Employee: SSN, DOB, start/end dates, salary;
+> * Dependent: same information as their associated employee (though, not start/end dates), date added
+(as dependent), type of relationship: e.g., father, mother, etc.
+> * Job: title (e.g., secretary, service tech., manager, cashier, janitor, IT, etc.)
+> * Benefit: name (e.g., medical, dental, long-term disability, 401k, term life insurance, etc.)
+> * Plan: type (single, spouse, family), cost, election date (plans must be unique)
+> * Employee history: jobs, salaries, and benefit changes, as well as who made the change and why;
+> * Zero Filled data: SSN, zip codes (not phone numbers: US area codes not below 201, NJ);
+> * *ALL* tables must include notes attribute.
+
 
 #### README.md file should include the following items:
 
@@ -53,9 +64,9 @@ business rules:
 
 ![AMPPS Installation Screenshot](img/ampps.png)
 
-*ERD Image*:
+*A1 ERD Image*:
 
-![ERD Image](img/erd.png)
+![A1 ERD Image](img/erd.png)
 
 #### Tutorial Links:
 
