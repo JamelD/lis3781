@@ -4,24 +4,29 @@
 
 ### Assignment 1 Requirements:
 
-*Distributed Version Control Setup:*
+*Five Parts:*
 
-1. Install Git
-2. Create Bitbucket account
-3. Go through Git tutorial
-4. Setup SSH key
-5. Research Git commands
-6. Create new Git course repository on Bitbucket
+1. Distributed Version Control with Git and Bitbucket
+2. Ampps Installation
+3. Questions
+4. Entity Relationship Diagram and SQL Code
+5. Bitbucket repo links
+    - This assignment
+    - The completed tutorial
 
-
-*Development Installations and Login Procedures:*
-
-1. Install Ampps
-2. Install MySQL Workbench
-3. MySQL Workbench Login Procedures
-4. Entity Relationship Diagram
-5. Push local repo to Bitbucket 
-6. Provide Professor and TA with read access
+> # A1 Database Buisiness Rules
+> 
+> The human resource (HR) department of the ACME company wants to contract a database
+modeler/designer to collect the following employee data for tax purposes: job description, length of
+employment, benefits, number of dependents and their relationships, DOB of both the employee and any
+respective dependents. In addition, employees’ histories must be tracked. Also, include the following
+business rules:
+> * Test
+> * 
+>
+>
+>
+>
 
 #### README.md file should include the following items:
 
