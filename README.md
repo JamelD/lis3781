@@ -7,8 +7,14 @@
 *Course Work Links:*
 
 1. [A1 README.md](a1/README.md "My A1 README.md file")
-    - Install something
-    - Install something
+    - Install Git
+    - Create Bitbucket account
+    - Bitbucket Git tutorial
+    - Create course repo on Bitbucket
+    - Install Ampps
+    - Install MySQL Workbench
+    - Setup MySQL workbench connections
+    - Push local repo to Bitbucket
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
     - TBD
