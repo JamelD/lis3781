@@ -22,7 +22,7 @@ employment, benefits, number of dependents and their relationships, DOB of both 
 respective dependents. In addition, employees’ histories must be tracked. Also, include the following
 business rules:
 > * Test
-> * 
+> * test
 >
 >
 >
