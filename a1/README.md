@@ -3,24 +3,29 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# LIS 3781
+# LIS 3781 - Advanced Database Management
 
 ## Jamel Douglas
 
-### Assignment # Requirements:
+### Assignment 1 Requirements:
 
 *Sub-Heading:*
 
-1. Ordered-list items
-2. 
+1. Distributed Version Control Setup
+2. Development Installations and Login Procedures
+    1. Install Ampps
+    2. MySQL Workbench
+    3. 
 3. 
 
 #### README.md file should include the following items:
 
-* Bullet-list items
-* 
-* 
-* 
+* Screenshot of ampps installation running
+* Git commands with short descriptions
+* ERD image
+* Bitbucket repo links
+    - this assignment
+    - completed tutorial repo
 
 > This is a blockquote.
 > 
@@ -28,12 +33,12 @@
 >
 > #### Git commands w/short descriptions:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. git init
+2. git status
+3. git add
+4. git commit
+5. git push
+6. git pull
 7. 
 
 #### Assignment Screenshots:

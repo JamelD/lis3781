@@ -1,6 +1,4 @@
-> **NOTE:** This README.md file should be placed at the **root of each of your main directory.**
-
-# LIS 3781
+# LIS 3781 - Advanced Database Management
 
 ## Jamel Douglas
 
