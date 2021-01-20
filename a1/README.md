@@ -68,10 +68,14 @@ any dependents of employees may be on an employee’s plan).
 
 ![A1 ERD Image](img/erd.png)
 
+*A1 Exercise Screenshot*:
+
+![A1 Exercise Screenshot](img/ex.png)
+
 #### Tutorial Links:
 
 *Bitbucket Tutorial - Station Locations:*
 [A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/jed18c/bitbucketstationlocations/ "Bitbucket Station Locations")
 
 *My LIS3781 Class Repo:*
-[My LIS3781 Class Repo](https://bitbucket.org/jec186/lis3781/ "My LIS3781 Class Repo")
+[My LIS3781 Class Repo](https://bitbucket.org/jed18c/lis3781/ "My LIS3781 Class Repo")
