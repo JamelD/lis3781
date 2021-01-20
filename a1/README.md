@@ -68,9 +68,9 @@ any dependents of employees may be on an employee’s plan).
 
 ![A1 ERD Image](img/erd.png)
 
-*A1 Exercise Screenshot*:
+*A1 Exercise #1 Screenshot*:
 
-![A1 Exercise Screenshot](img/ex.png)
+![A1 Exercise #1 Screenshot](img/ex.png)
 
 #### Tutorial Links:
 
