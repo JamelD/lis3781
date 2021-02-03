@@ -2,22 +2,29 @@
 
 ## Jamel Douglas
 
-### Assignment 1 Requirements:
+### Assignment 2 Requirements:
 
-*Subheading:*
+*Two Parts:*
 
-1. 
-2. 
-3. 
+1. MySQL Server
+    - Created tables using only SQL
+    - Granting Privileges 
+2. Bitbucket Repository 
 
 #### README.md file should include the following items:
 
-* 
-* 
-* 
+* Screenshot of sql code
+* Screenshot of populated tables
 
 #### Assignment Screenshots:
 
-*Screenshot Blank *
+*Screenshot of SQL Code*:
 
-![Screenshot](img/ss.png)
+![SQL Code Screenshot](img/sqlcode.png)
+
+*Screenshot of populated tables*:
+
+![Company Populated Table Screenshot](img/company_table.png)
+
+
+![Customer Populated Tables Screenshot](img/customer_table.png)
