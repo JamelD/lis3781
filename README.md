@@ -14,10 +14,16 @@
     - Provide git command descriptions
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - TBD
+    - MySQL Server
+        + Created tables using only SQL
+        + Granting Privileges 
+    - Bitbucket Repository 
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - TBD
+    - RemoteLabs Oracle Server
+        + Create and populate tables using sql
+        + SQL Solutions (Reports)
+    - Bitbucket Repository 
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
     - TBD
