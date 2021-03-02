@@ -13,12 +13,10 @@
 
 > # A1 Database Buisiness Rules
 > 
-> As the lead DBA for a local municipality, you are contacted by the city council to design a database in
-order to track and document the city’s court case data. Some report examples:
+> As the lead DBA for a local municipality, you are contacted by the city council to design a database in order to track and document the city’s court case data. Some report examples:
 > * Which attorney is assigned to what case(s)?
 > * How many unique clients have cases (be sure to add a client to more than one case)?
-> * How many cases has each attorney been assigned, and names of their clients (return number and
-names)?
+> * How many cases has each attorney been assigned, and names of their clients (return number and names)?
 > * How many cases does each client have with the firm (return a name and number value)?
 > * Which types of cases does/did each client have/had and their start and end dates?
 > * Which attorney is associated to which client(s), and to which case(s)?
