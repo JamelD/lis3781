@@ -11,7 +11,7 @@
     - Forward Engineer
 2. Bitbucket Repository 
 
-> # A1 Database Buisiness Rules
+> # P1 Database Buisiness Rules
 > 
 > As the lead DBA for a local municipality, you are contacted by the city council to design a database in order to track and document the city’s court case data. Some report examples:
 > * Which attorney is assigned to what case(s)?
@@ -44,6 +44,3 @@
 
 ![ERD Screenshot](img/erd.png)
 
-*Screenshot of populated tables*:
-
-![Company Populated Table Screenshot](img/tables.png)
