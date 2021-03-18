@@ -8,6 +8,7 @@
 
 1. MS SQL Server
     - Populate Tables using T-SQL
+    - SQL Solutions (Reports)
     - Create ERD
     - Forward Engineer
 2. Bitbucket Repository 
