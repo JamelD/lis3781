@@ -26,7 +26,12 @@
     - Bitbucket Repository 
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
-    - TBD
+    - MySQL Server
+        + Populate Tables using T-SQL
+        + SQL Solutions (Reports)
+        + Create ERD
+        + Forward Engineer
+    - Bitbucket Repository 
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
     - TBD
