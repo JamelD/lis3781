@@ -48,4 +48,7 @@
     - Bitbucket Repository 
 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - TBD   
+    - MongoDB
+        + Import *primer-dataset.json* using **mongoimport**
+        + Run Queries
+    - Bitbucket Repository 
