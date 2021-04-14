@@ -2,7 +2,7 @@
 
 ## Jamel Douglas
 
-### Project 1 Requirements:
+### Project 2 Requirements:
 
 *Two Parts:*
 
