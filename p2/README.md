@@ -99,7 +99,7 @@ Note: *ALL* below queries from restaurants collection in test db.
 
 *Screenshot of MongoDB Shell Command(s)*:
 
-![MongoDB Shell Command(s) Screenshot](img/mongodb.png)
+![MongoDB Shell Command(s) Screenshot](img/mongo.png)
 
 *Screenshot of MongoDB Query*:
 
